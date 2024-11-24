@@ -1,18 +1,4 @@
 <p align="center">
-<img 
-    src="./assets/Imagem. Th"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</p>
-
-<p align="center">
     preview do podcast
 </p>
 
