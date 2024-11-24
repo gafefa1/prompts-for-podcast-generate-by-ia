@@ -44,7 +44,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Chatgpt Para gerar a imagem do Podcast
+- Imagem gerada via chatgpt 
 
 ## 📚 Materiais
 
