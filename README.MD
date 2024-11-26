@@ -2,7 +2,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um projeto do curso "CAIXA - IA Generativa com Microsoft Copilot" em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um projeto de um podcast do curso "CAIXA - IA Generativa com Microsoft Copilot" em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais assertivos.
 
@@ -11,15 +11,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Clipchamp] (Aplicativo da Microsoft)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Imgaem gerado via chatgpt Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
