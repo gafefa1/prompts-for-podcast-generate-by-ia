@@ -18,8 +18,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Imgaem gerado via chatgpt Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Imagem gerada via chatgpt 
+- Clipchamp para tratar aúdio e adicionar a imgaem
 
 ## 📚 Materiais
 
