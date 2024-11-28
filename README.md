@@ -37,9 +37,8 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts do arquivo incluído no repositório do Github cujo nome do arquivo é: "Prompts utilizados para o podcast no Word" para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Use os prompts do arquivo para crirar: título, roteiro e imagem de capa no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `chagpt`
 
 ## 👨‍💻 Expert
 
