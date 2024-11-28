@@ -28,8 +28,8 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - Prompts utilizados para o podcast no Word
-- Imagem gerada no chatgpt
-- Audio gerado do Podcast feito no Eleven Labas 
+- Imagem do podcast no chatgpt
+- Audio do podcast feito no Eleven Labas 
 - Podcast FINISA na prática
 
 
