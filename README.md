@@ -50,7 +50,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGabriel F Faria<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/gafefa1">
