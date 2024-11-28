@@ -51,11 +51,6 @@ Utilize os prompts do arquivo incluído no repositório do Github cujo nome do a
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
         href="https://www.instagram.com/faria1495.exe/">
         Instagram
     </a>
